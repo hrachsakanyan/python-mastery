@@ -10,7 +10,7 @@ An interactive, in-depth Python course **taught in Armenian** 🇦🇲 — from 
 
 ---
 
-## 📚 What's covered 
+## 📚 What's covered  
 
 27 topics across two phases — from the fundamentals to Object-Oriented Programming.
 
