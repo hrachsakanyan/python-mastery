@@ -43,7 +43,7 @@ A single self-contained `index.html` file, no build step — [Pyodide](https://p
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author 
 
 **Hrach Sakanyan**<br>
 GitHub: [github.com/hrachsakanyan](https://github.com/hrachsakanyan)
