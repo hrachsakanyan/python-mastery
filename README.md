@@ -1,4 +1,4 @@
-# 🐍 Python Mastery — Python Course in Armenian
+# 🐍 Python Mastery — Python Course in Armenian 
 
 An interactive, in-depth Python course **taught in Armenian** 🇦🇲 — from the fundamentals through Object-Oriented Programming (OOP). The whole course lives in a single page, and you can **write and run Python code right in your browser** (Python runs inside the page — no installation needed).
 
